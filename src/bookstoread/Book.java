@@ -11,6 +11,7 @@ public class Book {
         this.author = author;
         this.publishedOn = publishedOn;
     }
+
     public String getTitle() {
         return title;
     }
